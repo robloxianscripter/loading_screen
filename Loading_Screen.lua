@@ -30,14 +30,14 @@ local leave = Instance.new("TextLabel");
 local UITextSizeConstraint_5 = Instance.new("UITextSizeConstraint");
 local EndSequence = Instance.new("Frame");
 if _G.ScriptName == nil and _G.FirstText == nil and _G.SecondText == nil and _G.ThirdText == nil and _G.WaitingTime == nil then
-	_G.ScriptName = ".gg/PxQJ3YEu55";
+	_G.ScriptName = ".gg/GaKSruCXDk";
 	_G.FirstText = "Preparing Script...";
 	_G.SecondText = "Loading Script...";
 	_G.ThirdText = "Almost Done...";
 	_G.WaitingTime = 180;
 end
 ;
-RLoading.Name = "DiamondsHub";
+RLoading.Name = "CatHub";
 RLoading.Parent = game:GetService("CoreGui");
 RLoading.IgnoreGuiInset = true;
 RMainFrame.Name = "RMainFrame";
